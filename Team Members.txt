@@ -1,0 +1,10 @@
+
+Roll Number    Registeration No.        Name             Section   
+
+  A-03            11804958          Manish Badsara        K18UW       
+  A-19            11604523          Manvir Kaur           K18UW       
+  A-21            11607168          Satyam                K18UW       
+  B-39            11600805          Brinderjit Bhutta     K18UW       
+  A-18            11604770          Manish Kumar Roy      K18UW       
+  
+
